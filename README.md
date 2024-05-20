@@ -35,11 +35,11 @@ Feel free to reach out to me through email at ishitakhanduja26@gmail.com or conn
 
 Here are the programming languages and technologies I'm proficient in:
 
-- **HTML:** Proficient in creating structured and semantic web pages.
+- **HTML** 
 - **CSS:** Skilled in styling and designing web pages, including responsive layouts and animations.
 - **JavaScript (JS):** Experienced in front-end development, including interactive user interfaces and dynamic web content.
-- **Python:** Proficient in Python programming, including web development frameworks like Django and Flask, as well as data analysis and machine learning libraries.
-- **C:** Proficient in C programming, with experience in system-level programming and algorithm development.
+- **Python** 
+- **C** 
 
 
 ### Contact Information

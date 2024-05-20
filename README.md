@@ -14,7 +14,7 @@ Below, you'll find a breakdown of the sections included in this README.md file t
 Resume
 Download my resume to learn more about my academic qualifications, skills, experiences, and other relevant information.
 
-ink].
+
 
 More About Me
 Discover additional insights into who I am as a person and a professional. Learn about my interests, hobbies, career goals, and more.
